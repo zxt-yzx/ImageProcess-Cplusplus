@@ -1,4 +1,4 @@
-#include"path.h"
+#include"Path.h"
 #include<direct.h>
 #include<io.h>
 

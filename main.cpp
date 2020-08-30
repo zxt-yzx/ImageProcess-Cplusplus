@@ -2,7 +2,7 @@
 using namespace std;
 #include<string>
 #include<vector>
-#include"path.h"
+#include"Path.h"
 #include"ImageIO.h"
 
 
